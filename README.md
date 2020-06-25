@@ -1,2 +1,2 @@
-# LocalNotificationsExtantOnClick
+# LocalNotificationsExtandOnClick
 Optional
